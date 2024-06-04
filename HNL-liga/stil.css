@@ -1,0 +1,66 @@
+
+body {
+    margin: 0 auto;
+    
+    background-image: url(slike/pozadina.jpg);
+}
+h1 {
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+table {
+    margin-bottom: 20px;
+}
+.container{
+    background-color: white;
+    padding: 0;
+    
+}
+
+.container p, h3, h2, img{
+    padding: 0 20px
+}
+.slike{
+    width: 100%;
+    margin: 0 auto;
+}
+footer{
+    text-align: center;
+    padding: 25px;
+    margin: 0 auto;
+    background-color: rgb(43, 43, 43);
+    color: white;
+    width: 100%;
+}
+footer p {
+    margin: 0 auto;
+    padding: 10px;
+}
+td, th{
+    text-align: center;
+}
+table.table-hover tbody tr:hover {
+    background-color: #000000;
+    color: white;
+    opacity: 80%;
+}
+th{
+    background-color: rgb(17, 0, 167);
+    color: white;
+}
+.carousel-item {
+            padding: 0px;
+            
+            
+        }
+        .black{
+            background-color: black;
+        }
+.carousel-inner{
+    width: 80%;
+    margin: 0 auto;
+}
+.carousel-control-next, .carousel-control-prev{
+    width: 10%;
+}
+

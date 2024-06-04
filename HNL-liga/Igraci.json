@@ -1,0 +1,24 @@
+[
+    { "rang": 1, "igrac": "Mierez R.", "tim": "Osijek", "golovi": 19, "asistencije": 7 },
+    { "rang": 2, "igrac": "Brodic F.", "tim": "Dinamo", "golovi": 13, "asistencije": 2 },
+    { "rang": 3, "igrac": "Čop D.", "tim": "Lokomotiva", "golovi": 12, "asistencije": 3 },
+    { "rang": 4, "igrac": "Petković B.", "tim": "Dinamo", "golovi": 11, "asistencije": 5 },
+    { "rang": 5, "igrac": "Janković N.", "tim": "Rijeka", "golovi": 11, "asistencije": 4 },
+    { "rang": 6, "igrac": "Mioč B.", "tim": "Slaven Belupo", "golovi": 10, "asistencije": 5 },
+    { "rang": 7, "igrac": "Livaja M.", "tim": "Hajduk", "golovi": 10, "asistencije": 4 },
+    { "rang": 8, "igrac": "Šotiček M.", "tim": "Lokomotiva", "golovi": 9, "asistencije": 0 },
+    { "rang": 9, "igrac": "Kulenović S.", "tim": "Dinamo", "golovi": 8, "asistencije": 1 },
+    { "rang": 10, "igrac": "Štrkalj T.", "tim": "Slaven Belupo", "golovi": 7, "asistencije": 7 },
+    { "rang": 11, "igrac": "Lovrić K.", "tim": "Osijek", "golovi": 7, "asistencije": 5 },
+    { "rang": 12, "igrac": "Pjaca M.", "tim": "Rijeka", "golovi": 7, "asistencije": 4 },
+    { "rang": 13, "igrac": "Trajkovski A.", "tim": "Hajduk", "golovi": 7, "asistencije": 3 },
+    { "rang": 14, "igrac": "Vidović G.", "tim": "Dinamo", "golovi": 7, "asistencije": 3 },
+    { "rang": 15, "igrac": "Caktaš M.", "tim": "Osijek", "golovi": 7, "asistencije": 1 },
+    { "rang": 16, "igrac": "Postonjski I.", "tim": "Varaždin", "golovi": 7, "asistencije": 1 },
+    { "rang": 17, "igrac": "Pukštas R.", "tim": "Hajduk", "golovi": 7, "asistencije": 0 },
+    { "rang": 18, "igrac": "Obregon J.", "tim": "Rijeka", "golovi": 7, "asistencije": 0 },
+    { "rang": 19, "igrac": "Mudražija R.", "tim": "Lokomotiva", "golovi": 6, "asistencije": 5 },
+    { "rang": 20, "igrac": "Tuci I.", "tim": "Lokomotiva", "golovi": 6, "asistencije": 3 }
+]
+
+

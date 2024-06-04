@@ -1,0 +1,47 @@
+[
+    {
+        "ime": "Dinamo",
+        "opis": "GNK Dinamo Zagreb je najuspješniji nogometni klub u povijesti HNL-a, sa mnogobrojnim titulama prvaka."
+        
+    },
+    {
+        "ime": "Rijeka",
+        "opis": "HNK Rijeka je jedan od vodećih klubova u HNL-u, poznat po svojim strastvenim navijačima i uspjesima u domaćim i europskim natjecanjima."
+        
+    },
+    {
+        "ime": "Hajduk",
+        "opis": "HNK Hajduk Split je jedan od najpoznatijih i najtrofejnijih nogometnih klubova u Hrvatskoj, s bogatom poviješću i tradicijom."
+        
+    },
+    {
+        "ime": "Osijek",
+        "opis": "NK Osijek je jedan od vodećih klubova u HNL-u, s velikim ambicijama i podrškom lokalne zajednice."
+        
+    },
+    {
+        "ime": "Lokomotiva",
+        "opis": "NK Lokomotiva je klub iz Zagreba koji se kontinuirano natječe u vrhu HNL-a, poznat po razvijanju mladih talenata."
+        
+    },
+    {
+        "ime": "Varaždin",
+        "opis": "NK Varaždin je klub s bogatom poviješću i tradicijom. Nakon povratka u HNL, klub se stabilizirao i postao čvrst protivnik, s ambicijama za daljnjim rastom i razvojem."
+    },
+    {
+        "ime": "Gorica",
+        "opis": "HNK Gorica je relativno mladi klub u HNL-u koji je brzo stekao reputaciju snažnog protivnika. Poznati su po svom modernom pristupu i ulaganju u infrastrukturu te razvoj mladih igrača."
+    },
+    {
+        "ime": "Istra 1961",
+        "opis": "NK Istra 1961 iz Pule poznat je po svojoj borbenosti i podršci lokalne zajednice. Klub ima ambicije da se etablira kao stabilan prvoligaš i često je iznenađenje za favorite lige."
+    },
+    {
+        "ime": "Slaven Belupo",
+        "opis": "NK Slaven Belupo iz Koprivnice je stabilan prvoligaš koji redovito igra u sredini tablice. Klub je poznat po svojoj disciplini i konzistentnosti u HNL-u."
+    },
+    {
+        "ime": "Rudeš",
+        "opis": "NK Rudeš iz Zagreba je klub koji se trudi ostati u prvoj ligi. Iako često u borbi za opstanak, klub je poznat po svojoj upornosti i želji za napretkom."
+    }
+]
